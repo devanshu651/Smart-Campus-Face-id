@@ -1,4 +1,4 @@
-# Smart Campus Face-ID Attendance System
+# CampusEye AI – Smart Campus Face-ID Attendance System
 
 A real-time, computer vision–based attendance system built as a **solo project** using Python.  
 The goal is to automate manual attendance through face recognition while keeping the system simple, modular, and practical.
